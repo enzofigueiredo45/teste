@@ -83,11 +83,4 @@ section.topo-do-site .flex {
 .txt-topo-site h3 {
     font-size: 70px;
     font-weight: 300;
-    color: #fff;
-}
-
-.txt-topo-site .multiple-text {
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-}
+    color:
