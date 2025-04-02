@@ -1,7 +1,1 @@
-var typed = new Typed(".multiple-text", {
-    strings: ["Enzo Figueiredo", "Paulista", "Desenvolvedor FrontEnd", "Técnico em Mecatrônica"],
-    typeSpeed: 100,   // Velocidade de digitação (em milissegundos)
-    backSpeed: 100,   // Velocidade de apagamento
-    backDelay: 1000,  // Atraso antes de começar a apagar o texto
-    loop: true        // Continuar o loop da animação
-});
+Websfctype.yB0BYCUD4BaBMAgA2B7ByBnBmBiB9AgAwBnB5BgAUA7BwArDmBoAiAwBvB3BuB2BrByBuBnBtA2BlAAE6DmCsAgA9BNAMBgAgAgAgA1B2B0BpAwBnA1B6AgAdBiAHBwB8BxBYAIBpApBPBnBrB0BlAmBxBiAsAgAiAqBjB3BuBrB1B2BjBkBsAgAiAACnB1BnBwB4BxBuB4BnBkAxB0BgAIB0BvAwB0ALD0DmBiAsAiBiAWBvDdBwBrBlBxBgAnBvBgA3BnBlBjB2B0B6DwBrBlBhAiAdAsANAKAgAgAgAgA2B5AyBnBVByBnBnBmB6AgAzBwAwAUAgAgAiBzC1DgAYBnBuBxBjArBmBjBkAnBgAmBlAgAmBrBpBrB2BjBtDpDxBgAoAnBvBiBvBpAyDrB1B1BnBpB3BwBmBxB1BpANAKAgAgAgAgAiAjBlBtBVBwAnBnBkA6AgAxAwAwAsAgAgAgAvAvAgAYBnBsAxBlBTBmBjBmBnBgAmBnBiBnD0CjBpBjBvBnBwB2BxBPBKAgAgAiBkCmCjBlBtBGBlAuBjB7B8BkC1CwAwAwAsAiBgAvAvAgADB0A0BjB1BxBiBjBwB2BlA5DgAmBnBgAlBxBvBnBtDjB0BgAjBgAhA2DjBpBjBMBAAxBgA2BnB6B2BxBNAKAgAiBgAgAuBxBxByB8BgA0A4D3BnBgAiBgAgAgAgAgAgAvAxBgADAXAwB2BrBwB3BhA4DgAxBgAsAxBxBwAkCoCjBgAhAwBrBtAjBtDpDZBNAMBBCpA7A
